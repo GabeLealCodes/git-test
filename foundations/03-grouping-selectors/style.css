@@ -1,0 +1,15 @@
+/* yellow background */
+.fancy {
+    background-color:
+yellow;
+}
+/* back background white text */
+.inverted {
+    background-color: black; color: white;
+}
+c3
+
+.inverted, .fancy {
+    font-family: Helvetica, "Times New Roman", sans-serif;
+    font-size: 28px;
+}
